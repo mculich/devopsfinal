@@ -1,5 +1,5 @@
 <html>
-<head><title>devopsfinal JSP<!/title></head>
+<head><title>devopsfinal JSP</title></head>
 <body>
 
       <h2>devops final project for dror and anora</h2>
